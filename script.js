@@ -8,6 +8,6 @@ function convertValues() {
 
     console.log(convertedValue)
 
-}
+} 
 
 convertButton.addEventListener("click", convertValues)
